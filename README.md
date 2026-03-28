@@ -81,7 +81,7 @@ As regras são aplicadas em ordem pelo `AnalisadorDePedido`:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/analisador-de-pedidos.git
+   git clone https://github.com/sergioxv2006/analisador-de-pedidos.git
    ```
 2. Abra o IntelliJ e selecione **File → Open** apontando para a pasta do projeto.
 3. Certifique-se de que o JDK 21 está configurado em **File → Project Structure → SDK**.
